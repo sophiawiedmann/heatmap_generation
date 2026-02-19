@@ -1,0 +1,572 @@
+--------P1LA1GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 2, 'B': 0, 'C': 2, 'D': 0, 'E': 0, 'canon': 4}
+
+--------P2LA2GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 2, 'B': 0, 'C': 2, 'D': 0, 'E': 0, 'canon': 4}
+
+--------P3LA3GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 2, 'B': 0, 'C': 2, 'D': 0, 'E': 0, 'canon': 4}
+
+--------P10LC2GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 2, 'B': 0, 'C': 2, 'D': 0, 'E': 0, 'canon': 4}
+
+--------P11LC3GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 2, 'B': 0, 'C': 2, 'D': 0, 'E': 0, 'canon': 4}
+
+--------P12LC4GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 2, 'B': 0, 'C': 2, 'D': 0, 'E': 0, 'canon': 4}
+
+--------P13LD1GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 2, 'B': 0, 'C': 1, 'D': 0, 'E': 0, 'canon': 5}
+
+--------P14LD2GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 2, 'B': 0, 'C': 1, 'D': 0, 'E': 0, 'canon': 5}
+
+--------P15LD3GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 2, 'B': 0, 'C': 1, 'D': 0, 'E': 0, 'canon': 5}
+
+--------P16LD4GPS--------:
+# of fixations deleted (out of IA bounds): 3
+format count: {'A': 2, 'B': 0, 'C': 1, 'D': 0, 'E': 0, 'canon': 5}
+
+--------P17LE1GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 1, 'B': 0, 'C': 0, 'D': 0, 'E': 0, 'canon': 7}
+
+--------P18LE2GPS--------:
+# of fixations deleted (out of IA bounds): 5
+format count: {'A': 0, 'B': 0, 'C': 0, 'D': 0, 'E': 1, 'canon': 7}
+
+--------P19LE3GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 1, 'B': 0, 'C': 0, 'D': 0, 'E': 0, 'canon': 7}
+
+--------P1LA1GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 2, 'B': 0, 'C': 2, 'D': 0, 'E': 0, 'canon': 4}
+
+--------P20LE4GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 1, 'B': 0, 'C': 0, 'D': 0, 'E': 0, 'canon': 7}
+
+--------P21LF1GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 1, 'B': 0, 'C': 0, 'D': 0, 'E': 0, 'canon': 7}
+
+--------P22LF2GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 1, 'B': 0, 'C': 0, 'D': 0, 'E': 0, 'canon': 7}
+
+--------P23LF3GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 1, 'B': 0, 'C': 0, 'D': 0, 'E': 0, 'canon': 7}
+
+--------P24LF4GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 1, 'B': 0, 'C': 0, 'D': 0, 'E': 0, 'canon': 7}
+
+--------P25LG1GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 1, 'B': 0, 'C': 0, 'D': 0, 'E': 0, 'canon': 7}
+
+--------P27LG2GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 1, 'B': 0, 'C': 0, 'D': 0, 'E': 0, 'canon': 7}
+
+--------P28LG3GPS--------:
+# of fixations deleted (out of IA bounds): 1
+format count: {'A': 1, 'B': 0, 'C': 0, 'D': 0, 'E': 0, 'canon': 7}
+
+--------P29LG4GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 1, 'B': 0, 'C': 0, 'D': 0, 'E': 0, 'canon': 7}
+
+--------P2LA2GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 2, 'B': 0, 'C': 2, 'D': 0, 'E': 0, 'canon': 4}
+
+--------P30LH1GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 1, 'B': 0, 'C': 0, 'D': 0, 'E': 0, 'canon': 7}
+
+--------P31LH2GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 1, 'B': 0, 'C': 0, 'D': 0, 'E': 0, 'canon': 7}
+
+--------P32LH3GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 1, 'B': 0, 'C': 0, 'D': 0, 'E': 0, 'canon': 7}
+
+--------P33LH4GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 1, 'B': 0, 'C': 0, 'D': 0, 'E': 0, 'canon': 7}
+
+--------P35LI1GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 0, 'B': 2, 'C': 0, 'D': 1, 'E': 0, 'canon': 5}
+
+--------P36LI2GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 0, 'B': 2, 'C': 0, 'D': 1, 'E': 0, 'canon': 5}
+
+--------P37LI3GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 0, 'B': 2, 'C': 0, 'D': 1, 'E': 0, 'canon': 5}
+
+--------P38LI4GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 0, 'B': 2, 'C': 0, 'D': 1, 'E': 0, 'canon': 5}
+
+--------P39LJ1GPS--------:
+# of fixations deleted (out of IA bounds): 3
+format count: {'A': 0, 'B': 1, 'C': 0, 'D': 1, 'E': 2, 'canon': 4}
+
+--------P3LA3GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 2, 'B': 0, 'C': 2, 'D': 0, 'E': 0, 'canon': 4}
+
+--------P41LJ2GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 0, 'B': 1, 'C': 0, 'D': 1, 'E': 2, 'canon': 4}
+
+--------P42LJ3GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 0, 'B': 1, 'C': 0, 'D': 1, 'E': 2, 'canon': 4}
+
+--------P43LJ4GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 0, 'B': 1, 'C': 0, 'D': 1, 'E': 2, 'canon': 4}
+
+--------P44LK1GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 0, 'B': 2, 'C': 0, 'D': 1, 'E': 0, 'canon': 5}
+
+--------P45LK2GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 0, 'B': 2, 'C': 0, 'D': 1, 'E': 0, 'canon': 5}
+
+--------P46LK3GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 0, 'B': 2, 'C': 0, 'D': 1, 'E': 0, 'canon': 5}
+
+--------P47LK4GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 0, 'B': 2, 'C': 0, 'D': 1, 'E': 0, 'canon': 5}
+
+--------P48LL1GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 0, 'B': 1, 'C': 0, 'D': 1, 'E': 2, 'canon': 4}
+
+--------P49LL2GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 0, 'B': 1, 'C': 0, 'D': 1, 'E': 2, 'canon': 4}
+
+--------P4LA4GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 2, 'B': 0, 'C': 2, 'D': 0, 'E': 0, 'canon': 4}
+
+--------P50LL3GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 0, 'B': 1, 'C': 0, 'D': 1, 'E': 2, 'canon': 4}
+
+--------P51LL4GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 0, 'B': 1, 'C': 0, 'D': 1, 'E': 2, 'canon': 4}
+
+--------P53LA1GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 2, 'B': 0, 'C': 2, 'D': 0, 'E': 0, 'canon': 4}
+
+--------P54LA2GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 2, 'B': 0, 'C': 2, 'D': 0, 'E': 0, 'canon': 4}
+
+--------P56LA3GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 2, 'B': 0, 'C': 2, 'D': 0, 'E': 0, 'canon': 4}
+
+--------P57LA4GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 2, 'B': 0, 'C': 2, 'D': 0, 'E': 0, 'canon': 4}
+
+--------P10LC2GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 2, 'B': 0, 'C': 2, 'D': 0, 'E': 0, 'canon': 4}
+
+--------P11LC3GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 2, 'B': 0, 'C': 2, 'D': 0, 'E': 0, 'canon': 4}
+
+--------P12LC4GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 2, 'B': 0, 'C': 2, 'D': 0, 'E': 0, 'canon': 4}
+
+--------P13LD1GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 2, 'B': 0, 'C': 1, 'D': 0, 'E': 0, 'canon': 5}
+
+--------P14LD2GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 2, 'B': 0, 'C': 1, 'D': 0, 'E': 0, 'canon': 5}
+
+--------P15LD3GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 2, 'B': 0, 'C': 1, 'D': 0, 'E': 0, 'canon': 5}
+
+--------P16LD4GPS--------:
+# of fixations deleted (out of IA bounds): 3
+format count: {'A': 2, 'B': 0, 'C': 1, 'D': 0, 'E': 0, 'canon': 5}
+
+--------P17LE1GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 1, 'B': 0, 'C': 0, 'D': 0, 'E': 0, 'canon': 7}
+
+--------P18LE2GPS--------:
+# of fixations deleted (out of IA bounds): 5
+format count: {'A': 0, 'B': 0, 'C': 0, 'D': 0, 'E': 1, 'canon': 7}
+
+--------P19LE3GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 1, 'B': 0, 'C': 0, 'D': 0, 'E': 0, 'canon': 7}
+
+--------P1LA1GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 2, 'B': 0, 'C': 2, 'D': 0, 'E': 0, 'canon': 4}
+
+--------P20LE4GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 1, 'B': 0, 'C': 0, 'D': 0, 'E': 0, 'canon': 7}
+
+--------P21LF1GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 1, 'B': 0, 'C': 0, 'D': 0, 'E': 0, 'canon': 7}
+
+--------P22LF2GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 1, 'B': 0, 'C': 0, 'D': 0, 'E': 0, 'canon': 7}
+
+--------P23LF3GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 1, 'B': 0, 'C': 0, 'D': 0, 'E': 0, 'canon': 7}
+
+--------P24LF4GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 1, 'B': 0, 'C': 0, 'D': 0, 'E': 0, 'canon': 7}
+
+--------P25LG1GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 1, 'B': 0, 'C': 0, 'D': 0, 'E': 0, 'canon': 7}
+
+--------P27LG2GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 1, 'B': 0, 'C': 0, 'D': 0, 'E': 0, 'canon': 7}
+
+--------P28LG3GPS--------:
+# of fixations deleted (out of IA bounds): 1
+format count: {'A': 1, 'B': 0, 'C': 0, 'D': 0, 'E': 0, 'canon': 7}
+
+--------P29LG4GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 1, 'B': 0, 'C': 0, 'D': 0, 'E': 0, 'canon': 7}
+
+--------P2LA2GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 2, 'B': 0, 'C': 2, 'D': 0, 'E': 0, 'canon': 4}
+
+--------P30LH1GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 1, 'B': 0, 'C': 0, 'D': 0, 'E': 0, 'canon': 7}
+
+--------P31LH2GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 1, 'B': 0, 'C': 0, 'D': 0, 'E': 0, 'canon': 7}
+
+--------P32LH3GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 1, 'B': 0, 'C': 0, 'D': 0, 'E': 0, 'canon': 7}
+
+--------P33LH4GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 1, 'B': 0, 'C': 0, 'D': 0, 'E': 0, 'canon': 7}
+
+--------P35LI1GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 0, 'B': 2, 'C': 0, 'D': 1, 'E': 0, 'canon': 5}
+
+--------P36LI2GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 0, 'B': 2, 'C': 0, 'D': 1, 'E': 0, 'canon': 5}
+
+--------P37LI3GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 0, 'B': 2, 'C': 0, 'D': 1, 'E': 0, 'canon': 5}
+
+--------P38LI4GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 0, 'B': 2, 'C': 0, 'D': 1, 'E': 0, 'canon': 5}
+
+--------P39LJ1GPS--------:
+# of fixations deleted (out of IA bounds): 3
+format count: {'A': 0, 'B': 1, 'C': 0, 'D': 1, 'E': 2, 'canon': 4}
+
+--------P3LA3GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 2, 'B': 0, 'C': 2, 'D': 0, 'E': 0, 'canon': 4}
+
+--------P41LJ2GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 0, 'B': 1, 'C': 0, 'D': 1, 'E': 2, 'canon': 4}
+
+--------P42LJ3GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 0, 'B': 1, 'C': 0, 'D': 1, 'E': 2, 'canon': 4}
+
+--------P43LJ4GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 0, 'B': 1, 'C': 0, 'D': 1, 'E': 2, 'canon': 4}
+
+--------P44LK1GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 0, 'B': 2, 'C': 0, 'D': 1, 'E': 0, 'canon': 5}
+
+--------P45LK2GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 0, 'B': 2, 'C': 0, 'D': 1, 'E': 0, 'canon': 5}
+
+--------P46LK3GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 0, 'B': 2, 'C': 0, 'D': 1, 'E': 0, 'canon': 5}
+
+--------P47LK4GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 0, 'B': 2, 'C': 0, 'D': 1, 'E': 0, 'canon': 5}
+
+--------P48LL1GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 0, 'B': 1, 'C': 0, 'D': 1, 'E': 2, 'canon': 4}
+
+--------P49LL2GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 0, 'B': 1, 'C': 0, 'D': 1, 'E': 2, 'canon': 4}
+
+--------P4LA4GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 2, 'B': 0, 'C': 2, 'D': 0, 'E': 0, 'canon': 4}
+
+--------P50LL3GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 0, 'B': 1, 'C': 0, 'D': 1, 'E': 2, 'canon': 4}
+
+--------P51LL4GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 0, 'B': 1, 'C': 0, 'D': 1, 'E': 2, 'canon': 4}
+
+--------P53LA1GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 2, 'B': 0, 'C': 2, 'D': 0, 'E': 0, 'canon': 4}
+
+--------P54LA2GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 2, 'B': 0, 'C': 2, 'D': 0, 'E': 0, 'canon': 4}
+
+--------P56LA3GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 2, 'B': 0, 'C': 2, 'D': 0, 'E': 0, 'canon': 4}
+
+--------P57LA4GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 2, 'B': 0, 'C': 2, 'D': 0, 'E': 0, 'canon': 4}
+
+--------P58LB1GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 2, 'B': 0, 'C': 1, 'D': 0, 'E': 0, 'canon': 5}
+
+--------P59LB2GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 2, 'B': 0, 'C': 1, 'D': 0, 'E': 0, 'canon': 5}
+
+--------P5LB1GPS--------:
+# of fixations deleted (out of IA bounds): 1
+format count: {'A': 2, 'B': 0, 'C': 1, 'D': 0, 'E': 0, 'canon': 5}
+
+--------P60LB3GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 2, 'B': 0, 'C': 1, 'D': 0, 'E': 0, 'canon': 5}
+
+--------P61LB4GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 2, 'B': 0, 'C': 1, 'D': 0, 'E': 0, 'canon': 5}
+
+--------P62LC1GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 2, 'B': 0, 'C': 2, 'D': 0, 'E': 0, 'canon': 4}
+
+--------P63LC2GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 2, 'B': 0, 'C': 2, 'D': 0, 'E': 0, 'canon': 4}
+
+--------P64LC3GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 2, 'B': 0, 'C': 2, 'D': 0, 'E': 0, 'canon': 4}
+
+--------P65LC4GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 2, 'B': 0, 'C': 2, 'D': 0, 'E': 0, 'canon': 4}
+
+--------P66LD1GPS--------:
+# of fixations deleted (out of IA bounds): 1
+format count: {'A': 2, 'B': 0, 'C': 1, 'D': 0, 'E': 0, 'canon': 5}
+
+--------P67LD2GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 2, 'B': 0, 'C': 1, 'D': 0, 'E': 0, 'canon': 5}
+
+--------P68LD3GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 2, 'B': 0, 'C': 1, 'D': 0, 'E': 0, 'canon': 5}
+
+--------P69LD4GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 2, 'B': 0, 'C': 1, 'D': 0, 'E': 0, 'canon': 5}
+
+--------P6LB2GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 2, 'B': 0, 'C': 1, 'D': 0, 'E': 0, 'canon': 5}
+
+--------P70LE1GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 1, 'B': 0, 'C': 0, 'D': 0, 'E': 0, 'canon': 7}
+
+--------P71LE2GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 1, 'B': 0, 'C': 0, 'D': 0, 'E': 0, 'canon': 7}
+
+--------P72LE3GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 1, 'B': 0, 'C': 0, 'D': 0, 'E': 0, 'canon': 7}
+
+--------P73LE4GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 1, 'B': 0, 'C': 0, 'D': 0, 'E': 0, 'canon': 7}
+
+--------P74LF1GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 1, 'B': 0, 'C': 0, 'D': 0, 'E': 0, 'canon': 7}
+
+--------P75LF2GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 1, 'B': 0, 'C': 0, 'D': 0, 'E': 0, 'canon': 7}
+
+--------P76LF3GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 1, 'B': 0, 'C': 0, 'D': 0, 'E': 0, 'canon': 7}
+
+--------P77LF4GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 1, 'B': 0, 'C': 0, 'D': 0, 'E': 0, 'canon': 7}
+
+--------P78LG1GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 1, 'B': 0, 'C': 0, 'D': 0, 'E': 0, 'canon': 7}
+
+--------P79LG2GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 1, 'B': 0, 'C': 0, 'D': 0, 'E': 0, 'canon': 7}
+
+--------P7LB3GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 2, 'B': 0, 'C': 1, 'D': 0, 'E': 0, 'canon': 5}
+
+--------P80LG3GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 1, 'B': 0, 'C': 0, 'D': 0, 'E': 0, 'canon': 7}
+
+--------P81LG4GPS--------:
+# of fixations deleted (out of IA bounds): 1
+format count: {'A': 1, 'B': 0, 'C': 0, 'D': 0, 'E': 0, 'canon': 7}
+
+--------P82LH1GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 1, 'B': 0, 'C': 0, 'D': 0, 'E': 0, 'canon': 7}
+
+--------P83LH2GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 1, 'B': 0, 'C': 0, 'D': 0, 'E': 0, 'canon': 7}
+
+--------P84LH3GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 1, 'B': 0, 'C': 0, 'D': 0, 'E': 0, 'canon': 7}
+
+--------P85LH4GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 1, 'B': 0, 'C': 0, 'D': 0, 'E': 0, 'canon': 7}
+
+--------P86LI1GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 0, 'B': 2, 'C': 0, 'D': 1, 'E': 0, 'canon': 5}
+
+--------P87LI2GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 0, 'B': 2, 'C': 0, 'D': 1, 'E': 0, 'canon': 5}
+
+--------P88LI3GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 0, 'B': 2, 'C': 0, 'D': 1, 'E': 0, 'canon': 5}
+
+--------P89LI4GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 0, 'B': 2, 'C': 0, 'D': 1, 'E': 0, 'canon': 5}
+
+--------P8LB4GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 2, 'B': 0, 'C': 1, 'D': 0, 'E': 0, 'canon': 5}
+
+--------P90LJ1GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 0, 'B': 1, 'C': 0, 'D': 1, 'E': 2, 'canon': 4}
+
+--------P91LJ2GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 0, 'B': 1, 'C': 0, 'D': 1, 'E': 2, 'canon': 4}
+
+--------P92LJ3GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 0, 'B': 1, 'C': 0, 'D': 1, 'E': 2, 'canon': 4}
+
+--------P93LJ4GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 0, 'B': 1, 'C': 0, 'D': 1, 'E': 2, 'canon': 4}
+
+--------P94LK1GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 0, 'B': 2, 'C': 0, 'D': 1, 'E': 0, 'canon': 5}
+
+--------P95LK2GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 0, 'B': 2, 'C': 0, 'D': 1, 'E': 0, 'canon': 5}
+
+--------P96LK3GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 0, 'B': 2, 'C': 0, 'D': 1, 'E': 0, 'canon': 5}
+
+--------P97LK4GPS--------:
+# of fixations deleted (out of IA bounds): 1
+format count: {'A': 0, 'B': 2, 'C': 0, 'D': 1, 'E': 0, 'canon': 5}
+
+--------P98LL1GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 0, 'B': 1, 'C': 0, 'D': 1, 'E': 2, 'canon': 4}
+
+--------P9LC1GPS--------:
+# of fixations deleted (out of IA bounds): 0
+format count: {'A': 2, 'B': 0, 'C': 2, 'D': 0, 'E': 0, 'canon': 4}
+
