@@ -1,8 +1,9 @@
 This repository contains code to generate an average heatmap per condition (sci_real, sci_pseudo, everyday_real, everyday_pseudo).
 
-The workflow below shows how to run this code yourself.
+The workflow below shows how to run this code yourself. TL;DR (1) map trials to canonical space with `main.py` (2) generate heatmaps with `generate_heatmaps.py`
 
 The results are already generated and included in this repository (if you run the workflow from the beginning, the output files will overwrite).
+
 
 
 ## **WORKFLOW:**
