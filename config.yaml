@@ -1,5 +1,5 @@
 input_files:
-  fr_file: "data/fr_reports/{pid}_fix.txt" # FR file of 1 participant. pid is extracted from argument parse when calling main.py
+  fr_file: "data/fr_reports/{pid}_fix.txt" # FR file of 1 participant. pid is extracted from argument parse when calling main.py (see the module docstring for more info)
   ia_file: "data/ia_reports/{pid}_new.txt" # IA file of the same 1 participant.  pid is extracted from argument parse when calling main.py
 
 output:
